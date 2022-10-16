@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 ,美亚电影台
+https://bstvcdn.ballbar.net/meiyamovie_twn/playlist-12.m3u8a?t=1665917254&token=1e769b162f1325eb2b600a64d3158105
+#EXTINF:-1 ,凤凰卫视中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 ,中天新闻
+https://pull-l3-cny.douyincdn.com/live/93d66e1858d98a32444c05130adaf031.flv
+#EXTINF:-1 ,无线新闻台
+https://pull-l3-cny.douyincdn.com/live/5b952359da7f600b16749e94b249b9b8.flv
+#EXTINF:-1 ,TVB翡翠台
+https://pull-l3-cny.douyincdn.com/live/c2267d5fe475a2cbf2567e6f281355bd.flv
+#EXTINF:-1 ,凤凰卫视资讯台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,TVBJ2
+https://pull-l3-cny.douyincdn.com/live/3aabb304a8b6adf750979f7bd0de1dcd.flv
+#EXTINF:-1 ,有线新闻台
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
+#EXTINF:-1 ,天映电影
+https://pull-l3-cny.douyincdn.com/live/9d2682db7d1a8aa32a7625e8edeb4ccd.flv
+#EXTINF:-1 ,TVB经典
+https://pull-l3-cny.douyincdn.com/live/863a62f2fc84870331f2b06ba47b0b4e.flv
+#EXTINF:-1 ,TVBS新闻台
+https://pull-l3-cny.douyincdn.com/live/6ad1cdc301a9dba719806910d2c24809.flv
